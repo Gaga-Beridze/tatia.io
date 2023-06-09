@@ -128,3 +128,8 @@ body.dark {
   color: var(--primary-color);
   padding: 40px;
 }
+
+.center{
+  display: block;
+  margin: 150px;
+}
